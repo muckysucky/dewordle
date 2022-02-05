@@ -4,7 +4,7 @@
 A simple browser extension that removes Wordle-like posts from your Facebook feed.
 
 To install:
-- Download the ZIP file & unzip it!
+- Download [the ZIP file](https://github.com/muckysucky/dewordle/archive/refs/tags/v1.zip) & unzip it!
 - Open Chrome, and click the menu Chrome / Preferences.
 - Choose Extensions.
 - Switch Developer Mode ON.
