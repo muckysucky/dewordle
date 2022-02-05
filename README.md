@@ -1,3 +1,4 @@
+![logo](https://github.com/muckysucky/dewordle/blob/main/icon.png?raw=true)
 # De-wordle browser extension
 
 This is a simple browser extension that removes Wordle-like posts from your Facebook feed.
